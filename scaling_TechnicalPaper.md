@@ -48,4 +48,4 @@ Adds machines and distributes the workload across them.
 
 - https://aws.amazon.com/autoscaling/
 - https://learn.microsoft.com/en-us/azure/load-balancer/
-- https://www.geeksforgeeks.org/    system-design-horizontal-and-vertical-scaling/
+- https://www.geeksforgeeks.org/system-design-horizontal-and-vertical-scaling/
